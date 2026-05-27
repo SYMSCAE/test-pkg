@@ -1,0 +1,8 @@
+{
+  "project_name": "test-pkg",
+  "github_username_or_orgname": "symscae",
+  "github_repo_name": "test-pkg",
+  "conda_pypi_package_dist_name": "test-pkg",
+  "package_dir_name": "test_pkg",
+  "contributors": "Changwei Huang"
+}
